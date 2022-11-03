@@ -33,7 +33,7 @@
 
 ## Live Demo
 
-- [Live link]()
+- [Live link](https://shaheryar0054.github.io/Capston-project/index.html)
 
 
 ## Getting Started
@@ -55,7 +55,7 @@ Open in browser
 
 ### Project Documantaion and short descriptive Video
 
-- Click on the link for [Short video](https://www.loom.com/share/4012b7a509844b128e1ad261c91afbcf)
+- Click on the link for [Short video]()
 
 
 ## Authors
@@ -70,7 +70,7 @@ Open in browser
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]().
+Feel free to check the [issues page](https://github.com/Shaheryar0054/Capston-project/issues).
 
 ## Show your support
 
